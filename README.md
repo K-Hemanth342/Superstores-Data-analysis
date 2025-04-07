@@ -1,1 +1,2 @@
 # Superstores-Data-analysis
+The  Project Involves Superstores data from united states with Four regions like West, East, South and Central with 49 States and 120 Cities where the  Customers have been divided into 3 categories   like Consumer , Corporate and Home office and the Superstores offering the  Product categories of Furniture , Technology and Home Supplies like Bookcases, Chairs, Furnishing Tables , Appliances, Art , Binders , Envelops , Fasteners , Label , Supplies, Storage, Paper, Accessories, Copiers, Machines and Phones 
